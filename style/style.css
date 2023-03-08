@@ -1,0 +1,30 @@
+#index-header-h1 {
+  float: left;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 25px;
+  letter-spacing: 10px;
+  word-spacing: 2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+#index-header-nav {
+  display: inline;
+  float: right;
+}
+#index-header-nav ul {
+  list-style: none;
+}
+#index-header-nav li {
+  float: left;
+  text-decoration: none;
+}
+#index-header-nav a {
+  font-family: tahoma;
+  text-decoration: none;
+  padding-left: 5px;
+  padding-right: 5px;
+}
