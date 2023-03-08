@@ -623,7 +623,7 @@ footer .container .row .col-xs-12 .isologo {
   margin: 8px auto;
 }
 .social a {
-  background: url(/img/sprite2.png) no-repeat 0 0;
+  background: url(../img/sprite2.png) no-repeat 0 0;
   display: inline-block;
   width: 48px;
   height: 48px;
